@@ -1,1 +1,2 @@
 这是为了测试remote service而建的分支。
+为了能在其他app中使用本service，需要使用AIDL。
